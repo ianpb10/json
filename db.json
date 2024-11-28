@@ -2,21 +2,18 @@
   "topics": [
     {
       "id": 1,
-      "linha": 123,
-      "placa": "ABC1234",
-      "eletricista": "João Silva"
+      "title": "to learn angular",
+      "completed": false
     },
     {
       "id": 2,
-      "linha": 456,
-      "placa": "DEF5678",
-      "eletricista": "Maria Santos"
+      "title": "to learn french",
+      "completed": true
     },
     {
       "id": 3,
-      "linha": null,
-      "placa": null,
-      "eletricista": null,
       "title": "to learn some",
       "completed": false
     }
+  ]
+}
