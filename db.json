@@ -2,18 +2,17 @@
   "topics": [
     {
       "id": 1,
-      "title": "to learn angular",
+      "busNumber": 124,
+      "placa": "ABC1234",
+      "eletricista": "João Silva",
       "completed": false
     },
     {
       "id": 2,
-      "title": "to learn french",
+      "busNumber": 456,
+      "placa": "DEF5678",
+      "eletricista": "Maria Santos",
       "completed": true
-    },
-    {
-      "id": 3,
-      "title": "to learn some",
-      "completed": false
     }
   ]
 }
