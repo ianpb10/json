@@ -16,12 +16,57 @@
     },
     {
       "id": 3,
-      "busNumber": null,
-      "placa": null,
-      "eletricista": null,
-      "horario": null,
       "title": "to learn some",
       "completed": false
+    },
+    {
+      "id": 4,
+      "busNumber": 789,
+      "placa": "GHI9101",
+      "Motorista": "Carlos Pereira",
+      "horario": "06:00-14:00"
+    },
+    {
+      "id": 5,
+      "busNumber": 321,
+      "placa": "JKL2345",
+      "Motorista": "Ana Costa",
+      "horario": "07:15-15:45"
+    },
+    {
+      "id": 6,
+      "busNumber": 654,
+      "placa": "MNO5678",
+      "Motorista": "Ricardo Oliveira",
+      "horario": "08:30-17:00"
+    },
+    {
+      "id": 7,
+      "busNumber": 876,
+      "placa": "PQR8901",
+      "Motorista": "Fernanda Lima",
+      "horario": "10:00-18:30"
+    },
+    {
+      "id": 8,
+      "busNumber": 234,
+      "placa": "STU1234",
+      "Motorista": "Lucas Rocha",
+      "horario": "11:00-19:00"
+    },
+    {
+      "id": 9,
+      "busNumber": 567,
+      "placa": "VWX2345",
+      "Motorista": "Paula Costa",
+      "horario": "12:30-20:30"
+    },
+    {
+      "id": 10,
+      "busNumber": 890,
+      "placa": "YZA3456",
+      "Motorista": "Júlio Oliveira",
+      "horario": "15:00-23:00"
     }
   ]
 }
