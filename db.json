@@ -3,17 +3,16 @@
     {
       "id": 1,
       "busNumber": 124,
-      "placa": "ABC1234"
+      "placa": "ABC1234",
+      "eletricista": "João Silva",
+      "completed": false
     },
     {
       "id": 2,
       "busNumber": 456,
-      "placa": "DEF5678"
-    },
-    {
-      "id": 3,
-      "title": "to learn some",
-      "completed": false
+      "placa": "DEF5678",
+      "eletricista": "Maria Santos",
+      "completed": true
     }
   ]
 }
