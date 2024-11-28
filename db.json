@@ -4,19 +4,22 @@
       "id": 1,
       "busNumber": 123,
       "placa": "ABC1234",
-      "Motorista": "João Silva"
+      "Motorista": "João Silva",
+      "horario": "14:50-18:30"
     },
     {
       "id": 2,
       "busNumber": 456,
       "placa": "DEF5678",
-      "Motorista": "Maria Santos"
+      "Motorista": "Maria Santos",
+      "horario": "05:50-12:30"
     },
     {
       "id": 3,
       "busNumber": null,
       "placa": null,
       "eletricista": null,
+      "horario": null,
       "title": "to learn some",
       "completed": false
     }
