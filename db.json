@@ -2,19 +2,19 @@
   "topics": [
     {
       "id": 1,
-      "linha": 123,
+      "busNumber": 123,
       "placa": "ABC1234",
       "eletricista": "João Silva"
     },
     {
       "id": 2,
-      "linha": 456,
+      "busNumber": 456,
       "placa": "DEF5678",
       "eletricista": "Maria Santos"
     },
     {
       "id": 3,
-      "linha": null,
+      "busNumber": null,
       "placa": null,
       "eletricista": null,
       "title": "to learn some",
