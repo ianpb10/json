@@ -4,13 +4,13 @@
       "id": 1,
       "busNumber": 123,
       "placa": "ABC1234",
-      "eletricista": "João Silva"
+      "Motorista": "João Silva"
     },
     {
       "id": 2,
       "busNumber": 456,
       "placa": "DEF5678",
-      "eletricista": "Maria Santos"
+      "Motorista": "Maria Santos"
     },
     {
       "id": 3,
