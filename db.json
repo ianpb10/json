@@ -1,12 +1,11 @@
-[
+{
+  "posts": [
     {
-      "linha": 123,
-      "placa": "ABC1234",
-      "eletricista": "João Silva"
-    },
-    {
-      "linha": 456,
-      "placa": "DEF5678",
-      "eletricista": "Maria Santos"
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
