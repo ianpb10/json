@@ -10,13 +10,5 @@
     "busNumber": 456,
     "placa": "DEF5678",
     "eletricista": "Maria Santos"
-  },
-  {
-    "id": 3,
-    "busNumber": null,
-    "placa": null,
-    "eletricista": null,
-    "title": "to learn some",
-    "completed": false
   }
 ]
